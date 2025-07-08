@@ -1,3 +1,8 @@
+Using MacTex 
+```
+/Library/TeX/texbin/tex
+```
+
 To compile:
 
 ```
